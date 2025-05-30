@@ -1,0 +1,5 @@
+copilot.microsoft.com
+www.bing.com
+browser.events.data.microsoft.com
+ad.doubleclick.net
+studiostaticassetsprod.azureedge.net
