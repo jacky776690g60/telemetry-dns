@@ -1,3 +1,4 @@
+copilot.github.com
 copilot.microsoft.com
 www.bing.com
 browser.events.data.microsoft.com
