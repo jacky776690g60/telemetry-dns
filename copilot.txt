@@ -12,8 +12,6 @@ api.githubcopilot.com
 copilot-proxy.githubusercontent.com
 copilot-telemetry.githubusercontent.com
 copilot-client.githubusercontent.com
-assets-cdn.github.com
-github.githubassets.com
 vscode.github.com
 copilot.microsoft.com
 edgeservices.bing.com
